@@ -3,5 +3,5 @@ This is another public repository of mine that is mainly going to be used for ve
 
 I do not have very much intentions to write anything advanced in this repository. It's just another repository for my own learning and to reference in the future. 
 
-### [SimpleIO](https://github.com/PepziiCola/c-projects/tree/main/SimpleIO)
+### 1. [SimpleIO](https://github.com/PepziiCola/c-projects/tree/main/SimpleIO)
 Very simple project of outputting. Probably improperly named IO as there is no input required to run and finish the program. It's just outputting various variables of different datatypes that represent numerous things. Simple project we did on 1/22 for Lab #1
