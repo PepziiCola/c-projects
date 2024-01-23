@@ -1,0 +1,16 @@
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\bin\Debug\net8.0-windows\MessageBoxHello.exe
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\bin\Debug\net8.0-windows\MessageBoxHello.deps.json
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\bin\Debug\net8.0-windows\MessageBoxHello.runtimeconfig.json
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\bin\Debug\net8.0-windows\MessageBoxHello.dll
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\bin\Debug\net8.0-windows\MessageBoxHello.pdb
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\MessageBoxHello.Form1.resources
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\MessageBoxHello.csproj.GenerateResource.cache
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\MessageBoxHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\MessageBoxHello.AssemblyInfoInputs.cache
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\MessageBoxHello.AssemblyInfo.cs
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\MessageBoxHello.csproj.CoreCompileInputs.cache
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\MessageBoxHello.dll
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\refint\MessageBoxHello.dll
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\MessageBoxHello.pdb
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\MessageBoxHello.genruntimeconfig.cache
+C:\Users\kylea\OneDrive\Desktop\C#\MessageBoxHello\MessageBoxHello\obj\Debug\net8.0-windows\ref\MessageBoxHello.dll
